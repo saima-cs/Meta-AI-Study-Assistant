@@ -23,7 +23,7 @@ st.set_page_config(
 
 # Change this one variable if you want to use another
 # currently supported Groq chat model.
-MODEL_NAME = "llama-3.3-70b-versatile"
+MODEL_NAME = "openai/gpt-oss-120"
 
 
 # ============================================================
